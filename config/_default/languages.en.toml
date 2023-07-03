@@ -1,0 +1,14 @@
+# config/_default/languages.en.toml
+title = "Angiolillo Paolo"
+
+[author]
+name = "Angiolillo Paolo"
+image = "profile.jpg"
+headline = "DevOps Engineer"
+
+
+links = [
+  { twitter = "https://twitter.com/username" },
+  { github = "https://github.com/PaoloAngiolillo" },
+  { linkedIn = "https://www.linkedin.com/in/angiolillopaolo/" }
+]

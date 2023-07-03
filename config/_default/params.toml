@@ -1,0 +1,11 @@
+# config/_default/params.toml
+
+colorScheme = "Avocado"
+
+homepage.layout = "profile"
+
+defaultAppearance = "light"
+
+autoSwitchAppearance = "false"
+
+footer.showAppearanceSwitcher = "true"
