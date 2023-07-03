@@ -10,5 +10,5 @@ headline = "DevOps Engineer"
 links = [
   { twitter = "https://twitter.com/username" },
   { github = "https://github.com/PaoloAngiolillo" },
-  { linkedIn = "https://www.linkedin.com/in/angiolillopaolo/" }
+  { linkedin = "https://www.linkedin.com/in/angiolillopaolo/" }
 ]
