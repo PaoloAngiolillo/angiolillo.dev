@@ -1,6 +1,7 @@
 # config/_default/menus.en.toml
 [[main]]
   name = "CV"
+  url = "https://github.com/PaoloAngiolillo/paolo.angiolillo.dev/blob/3587197aac3e8f3c25fd6e531ae5b3ec96627185/cv.pdf"
   weight = 20
 
 # [[main]]
